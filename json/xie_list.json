@@ -1,0 +1,28 @@
+{
+	"result":[
+		{
+			"img":"banner1.jpg",
+			"title":"Product name with short description1",
+			"small_t":"Short description1",
+			"dollar":"559$1"
+		},
+		{
+			"img":"banner2.jpg",
+			"title":"Product name with short description2",
+			"small_t":"Short description2",
+			"dollar":"559$2"
+		},
+		{
+			"img":"banner3.jpg",
+			"title":"Product name with short description3",
+			"small_t":"Short description3",
+			"dollar":"559$3"
+		},
+		{
+			"img":"banner4.jpg",
+			"title":"Product name with short description4",
+			"small_t":"Short description4",
+			"dollar":"559$4"
+		}
+	]
+}

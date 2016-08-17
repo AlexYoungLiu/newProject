@@ -1,0 +1,61 @@
+@charset "UTF-8";
+* {
+  box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-touch-callout: none;
+  -webkit-backface-visibility: hidden; }
+
+body, div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td {
+  margin: 0;
+  padding: 0; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+table th, table td {
+  vertical-align: top; }
+
+fieldset, img {
+  border: 0; }
+
+em, strong, b, i {
+  font-style: normal;
+  font-weight: normal; }
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal; }
+
+body, input, button, textarea {
+  font-family: Helvetica, sans-serif; }
+
+a {
+  text-decoration: none;
+  outline: none;
+  color: #fff; }
+
+a:hover {
+  cursor: pointer; }
+
+html, body {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  height: 100%;
+  width: 100%;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  position: relative;
+  font-size: 10px;
+  color: #fff;
+  font-family: 微软雅黑; }
+
+ul, ol {
+  list-style-type: none; }
+
+ul li, ol li {
+  list-style: none; }
+
+/*# sourceMappingURL=common.css.map */
